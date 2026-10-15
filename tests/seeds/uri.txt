@@ -1,0 +1,2 @@
+otpauth://totp/ACME%20Co:john@x.com?secret=GEZDGNBVGY3TQOJQ&issuer=ACME&algorithm=SHA256&digits=8&period=60
+otpauth-migration://offline?data=CgQSAmFh

@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "id": "authenticator",
+  "name": "Rec Authenticator",
+  "version": "0.1.0",
+  "description": "TOTP codes (Google Authenticator compatible) from a PIN-encrypted vault.",
+  "type": "ui-runtime",
+  "entry": "main",
+  "min_host_api": 2,
+  "protocol_version": 2,
+  "executable": "usr/bin/aera-plugin",
+  "icon": "key",
+  "payload": "runtime.xz",
+  "payload_url": "https://github.com/boy12hoody/rec-authenticator/releases/download/v0.1.0/runtime.xz",
+  "payload_size": 53792,
+  "payload_sha256": "02804a140f2b9106c064d2e91359ac7377f4da7b92ffd7afbc52633aab7aaf3c",
+  "expanded_size": 119301,
+  "expanded_sha256": "142b44fe3dcb81169d74f226fb9a6c80bad227c649be8c2a9920f243d6c95468",
+  "member_count": 3,
+  "permissions": [
+    "display",
+    "touch-input"
+  ]
+}
